@@ -29,6 +29,7 @@ backend: flask / django (api integration)
 notification system: smtp for email alerts
 
 📂 project structure
+
 billiance-shoplifting/
 │── data/                # training datasets & video samples
 │── models/              # pre-trained & custom ml models
@@ -39,3 +40,4 @@ billiance-shoplifting/
 │── requirements.txt     # dependencies
 │── app.py               # main application
 │── README.md            # project documentation
+
