@@ -5,10 +5,15 @@ billiance is an ai-powered shoplifting detection system that leverages computer 
 🚀 features
 
 - real-time cctv monitoring – detects customers and their interactions with products
+  
 - confidence scoring system – flags unusual product movements or concealment behavior
+  
 - shoplifting detection – identifies attempts to hide or steal products
+  
 - email notifications – sends instant alerts with video snapshots to store owners
+  
 - scalable security solution – can be deployed in supermarkets, retail outlets, or malls
+  
 - tech stack
 
 programming language: python
